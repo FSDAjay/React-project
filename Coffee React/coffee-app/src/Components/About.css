@@ -1,0 +1,42 @@
+.About-cont {
+    background-image: radial-gradient(rgb(129, 20, 20), rgb(83, 30, 30));
+    border: 2px solid yellow;
+    border-radius: 35px;
+    margin: 10px;
+}
+
+
+.about-img {
+    height: 400px;
+    width: 400px;
+    margin: 20px;
+    border-radius: 25px;
+    /* border: 3px solid brown; */
+    box-shadow: 0px 0px 10px yellow;
+}
+
+.about-para {
+    color: black;
+    text-align: justify;
+    font-size: 25px;
+    align-items: center;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.About-h2 {
+    font-weight: bold;
+    text-align: start;
+    margin-top: 20px;
+    margin-left: 20px;
+    color: black;
+    text-shadow: 0px 0px 5px yellow;
+}
+
+.About-span {
+    color: yellow;
+}
+
+.About-button {
+    margin-left: 20px;
+}

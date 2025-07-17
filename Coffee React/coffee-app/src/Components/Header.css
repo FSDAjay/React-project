@@ -1,0 +1,15 @@
+nav {
+    background-color: whitesmoke;
+}
+
+.navbar-brand {
+
+    border: 3px solid black;
+    border-radius: 50%;
+}
+
+.brand {
+    color: black;
+    font-weight: bold;
+    margin: 5px;
+}

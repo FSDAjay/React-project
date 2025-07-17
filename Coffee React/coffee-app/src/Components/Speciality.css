@@ -1,0 +1,11 @@
+.Tagstats {
+    background-color: brown;
+    border: 2px solid yellow;
+}
+
+.tagnav {
+    background-color: brown;
+    border-radius: 3px solid brown;
+    display: flex;
+    justify-content: center;
+}

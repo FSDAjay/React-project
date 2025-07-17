@@ -1,0 +1,55 @@
+.cont-h1 {
+    text-align: center;
+    color: black;
+    text-shadow: 0px 0px 15px yellow;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+.contact-cont {
+    border: 2px solid yellow;
+    border-radius: 35px;
+    background-image: radial-gradient(brown, rgb(71, 18, 18));
+}
+
+.form-l {
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.form-inp {
+    background-color: transparent;
+    background-image: radial-gradient(rgb(131, 73, 73), rgb(128, 30, 30));
+    border: 2px solid rgba(255, 255, 0, 0);
+}
+
+.form-inp:hover {
+    border: 1px solid yellow;
+    cursor: pointer;
+}
+
+.form-inp[placeholder] {
+    font-size: 15px;
+    color: black;
+}
+
+.cont-icon {
+    text-align: center;
+
+
+}
+
+.fa-brands {
+    font-size: 50px;
+    margin: 20px;
+    color: yellow;
+    padding: 10px;
+    border-radius: 50%;
+}
+
+.fa-brands:hover {
+    color: blue;
+    cursor: pointer;
+}

@@ -1,0 +1,55 @@
+.Carddiv {
+    border: 2px solid brown;
+    border-radius: 25px;
+    margin: 30px;
+    text-align: center;
+    padding: 20px;
+    box-shadow: 0px 0px 15px yellow;
+    background-image: radial-gradient(brown, rgb(71, 18, 18));
+    width: 300px;
+}
+
+.ser-h2 {
+    text-align: center;
+    color: black;
+    text-shadow: 0px 0px 15px yellow;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.serivce-h2 {
+    color: black;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    text-shadow: 0px 0px 15px yellow;
+    /* margin: 10px; */
+}
+
+.card-discription {
+    color: black;
+    font-weight: bold;
+
+
+}
+
+.service-card {
+    border: 2px solid yellow;
+    border-radius: 35px;
+    background-image: radial-gradient(brown, rgb(71, 18, 18));
+}
+
+
+
+.service-ul {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.service-img {
+    height: 100%;
+    width: 100%;
+    border-radius: 25px;
+    border: 2px soild black;
+}
