@@ -1,16 +1,16 @@
 ✅Coffee-app (React.js Project):
 
-📄 Project Description:(as all description in website are demo-represents )
+📄 Project Description:(as all description in website are demo-represents )<br>
 
->## ☕ Coffee Shop Website - Built with React.js;
+>## ☕ Coffee Shop Website - Built with React.js;<br>
 1.This is a modern, responsive Coffee Shop website built with **React.js**.
  It serves as a digital storefront for a fictional (or real) coffee brand, 
  allowing users to explore featured products, browse the menu, learn about
- the brand story, and Deatails.
+ the brand story, and Deatails.<br>
 2.The website is designed with performance and user experience in mind.
  It leverages React’s component-based structure for reusable UI elements and smooth Single-page .
  This project is perfect for demonstrating proficiency in frontend development, responsive design,
- and clean, modular code practices using React.
+ and clean, modular code practices using React.<br>
 
 ✨ Features:
 - 🏠 Home page with banner, featured products, and call-to-action
@@ -52,6 +52,6 @@ cd Foffee-app
 npm start
 
 >To Run Code.
- 1.Start React app,
- 2.Install json-server //	npm install -g json-server
+ 1.Start React app,<br>
+ 2.Install json-server //	npm install -g json-server<br>
  3.Run JSON server	json-server --watch data.json --port 5000
