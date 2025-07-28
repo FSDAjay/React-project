@@ -15,7 +15,7 @@ function Contain(props) {
 
     return (
 
-        <div className="Carddiv" data-aos="zoom-in-up" data-aos-duration="3000">
+        <div className="Carddiv" data-aos="zoom-in-up" data-aos-duration="2000">
             <img className="service-img" src={props.img} alt="img_service" />
             <div className="service-text">
                 <h2 className="serivce-h2">{props.title}</h2>
