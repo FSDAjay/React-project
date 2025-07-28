@@ -10,7 +10,7 @@ function Home() {
             <section>
                 <div className="container my-4">
                     <div className="heading">
-                        <h2 className="home-h2">Facinate Coffee Stop</h2>
+                        <h2 className="home-h2">Facinate//## Coffee Stop</h2>
                     </div>
                     <div className="row justify-content-center align-item-center ">
                         <div className="col-12 ">
