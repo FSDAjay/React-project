@@ -23,7 +23,7 @@ function Footer() {
 
                         <div className="col-12 col-sm-12 col-md-4 col-lg-4 ">
                             <h3 className="head">FSD48-Ajay.K.Jaiswar </h3>
-                            <h5 className="head">Allrightreserved@2024.10.28 </h5>
+                            <h5 className="head">Developed @On-2024.10.28 </h5>
                         </div>
                     </div>
 
