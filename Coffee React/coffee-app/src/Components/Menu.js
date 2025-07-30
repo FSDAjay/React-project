@@ -13,7 +13,7 @@ function Menu() {
             img: "https://blogstudio.s3.theshoppad.net/coffeeheroau/a450e2617a5f31cf16d3a178f9cf8451.jpg",
             name: "CAFE1",
             description: "Coffee production begins when the seeds of the Coffea plant's fruits (coffee cherries) are separated to produce unroasted green coffee beans. ",
-            price: "299",
+            price: "199",
         },
         {
             id: "m-2",
@@ -27,7 +27,7 @@ function Menu() {
             img: "https://blogstudio.s3.theshoppad.net/coffeeheroau/a450e2617a5f31cf16d3a178f9cf8451.jpg",
             name: "CAFE3",
             description: "Coffee production begins when the seeds of the Coffea plant's fruits (coffee cherries) are separated to produce unroasted green coffee beans. ",
-            price: "280",
+            price: "80",
         },
         {
             id: "m-4",
@@ -41,7 +41,7 @@ function Menu() {
             img: "https://blogstudio.s3.theshoppad.net/coffeeheroau/a450e2617a5f31cf16d3a178f9cf8451.jpg",
             name: "CAFE5",
             description: "Coffee production begins when the seeds of the Coffea plant's fruits (coffee cherries) are separated to produce unroasted green coffee beans. ",
-            price: "205",
+            price: "705",
         }, {
             id: "m-6",
             img: "https://blogstudio.s3.theshoppad.net/coffeeheroau/a450e2617a5f31cf16d3a178f9cf8451.jpg",
