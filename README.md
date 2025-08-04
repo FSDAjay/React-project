@@ -54,4 +54,7 @@ npm start
 >To Run Code.
  1.Start React app,<br>
  2.Install json-server //	npm install -g json-server<br>
- 3.Run JSON server	json-server --watch data.json --port 5000
+ 3.Run JSON server	json-server --watch data.json --port 5000<br><br>
+
+ >Shorgate in Project.<br>
+ Still under development as on responsive design.
