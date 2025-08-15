@@ -17,7 +17,7 @@ function Card(props) {
 
     return (
 
-        <div className="Card" data-aos="zoom-in-up" data-aos-duration="3000">
+        <div className="Card" data-aos="zoom-in-up" data-aos-duration="2000">
             <img className="card-img" src={props.img} alt="img_logo" />
             <div className="card-text">
                 <h2 className="card-h2">{props.name}</h2>
