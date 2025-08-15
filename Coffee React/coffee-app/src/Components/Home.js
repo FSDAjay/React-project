@@ -15,7 +15,7 @@ function Home() {
                     <div className="row justify-content-center align-item-center ">
                         <div className="col-12 ">
                             <div>
-                                <p className="home-para my-3">Coffee production begins when the seeds of the Coffea plant's fruits (coffee cherries) are separated to produce unroasted green coffee beans. The beans are roasted and then ground into fine particles. Coffee is brewed from the ground roasted beans, which are typically steep. It is usually served hot, although chilled or iced coffee is common. Coffee can be prepared and presented in a variety of ways (e.g., espresso, French press, caffè latte, or already-brewed canned coffee). Sugar, sugar substitutes, milk, and cream are often added to mask the bitter taste or enhance the flavor. There are also various coffee substitutes</p>
+                                <p className="home-para my-3">Coffee production begins when the seeds of the Coffea plant's fruits are separated to produce unroasted green coffee beans. The beans are roasted and then ground into fine particles. Coffee is brewed from the ground roasted beans, which are typically steep. It is usually served hot, although chilled or iced coffee is common. Coffee can be prepared and presented in a variety of ways Sugar, sugar substitutes, milk, and cream are often added to mask the bitter taste or enhance the flavor. There are also various coffee substitutes</p>
 
 
                             </div>
